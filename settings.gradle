@@ -1,0 +1,6 @@
+include ':Common'
+include ':library'
+include ':compiler'
+include ':annotation'
+include ':app'
+rootProject.name = "Router"
